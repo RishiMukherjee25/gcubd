@@ -1,0 +1,5 @@
+- [x] Hide the happy birthday text initially by adding display: none to .text in CSS
+- [x] Add JavaScript to request microphone access and set up audio analysis
+- [x] Implement blow detection by checking audio volume levels
+- [x] On blow detection, hide the candle flames and show the happy birthday message
+- [ ] Test the functionality in a browser
